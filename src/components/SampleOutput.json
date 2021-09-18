@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Melissa Alonso, CNN",
+      "title": "Florida appeals court rules in favor of DeSantis, reverses order to allow mask mandate ban in schools - CNN",
+      "description": "Florida's 1st District Court on Friday reinstated a stay on mask mandates in schools, blocking local school requirements for now, court documents show.",
+      "url": "https://www.cnn.com/2021/09/10/us/florida-desantis-schools-mask-mandate/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210823231703-ron-desantis-0816-restricted-super-tease.jpg",
+      "publishedAt": "2021-09-10T18:13:00Z",
+      "content": "(CNN)Florida's 1st District Court on Friday reinstated a stay on mask mandates in schools, blocking local school requirements for now, court documents show.\r\nLawyers for Florida Gov. Ron DeSantis fil… [+1024 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Allison Chinchar, CNN Meteorologist",
+      "title": "Hurricane Larry will produce category 1 winds and... feet of snow - CNN",
+      "description": "Friday is the statistical peak of hurricane season, yet a monster named Larry is forecast to transform into a winter storm that will deliver feet of snow in Greenland.",
+      "url": "https://www.cnn.com/2021/09/10/weather/hurricane-larry-forecast-weekend-snow-greenland/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210910080139-weather-larry-snowfall-card-super-tease.jpg",
+      "publishedAt": "2021-09-10T18:11:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sarah Whitten",
+      "title": "'Dear Evan Hansen' adaptation is 'a total misfire,' 'one of the worst movie-musicals ever made,' critics say - CNBC",
+      "description": "On Broadway, \"Dear Evan Hansen\" was a smash hit. On the big screen, it's poised to be a flop.",
+      "url": "https://www.cnbc.com/2021/09/10/dear-evan-hansen-reviews-what-critics-say-about-the-movie-musical.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106940075-1631288079928-dear_evan_hansen_Cropped.jpg?v=1631288129",
+      "publishedAt": "2021-09-10T18:05:31Z",
+      "content": "On Broadway, \"Dear Evan Hansen\" was a smash hit. On the big screen, it's poised to be a flop.\r\nThe latest Hollywood musical adaptation debuted at the Toronto International Film Festival on Thursday a… [+3932 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jack Healy, Lauren McCarthy",
+      "title": "Republican Governors Vow to Fight Biden's Vaccine Mandates - The New York Times",
+      "description": "In remarks on Friday, the president said his mandates would prevail and expressed disappointment with Republican governors who “have been so cavalier with the health of these kids, so cavalier with the health of their communities.”",
+      "url": "https://www.nytimes.com/2021/09/10/us/republican-governors-mandate-reaction.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/10/arts/10virus-briefing-reaction-1/10virus-briefing-reaction-1-facebookJumbo.jpg",
+      "publishedAt": "2021-09-10T17:38:24Z",
+      "content": "Mr. Biden had anticipated the attacks. In announcing his plan on Thursday, he said that he would do what he could to require more Americans to be vaccinated to combat those blocking public health, ad… [+2048 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Samantha Ibrahim",
+      "title": "Nicki Minaj bails on 2021 VMAs performance: 'I'll explain why another day' - New York Post ",
+      "description": "“I just pulled out. I’ll explain why another day,” the “Good Form” rapper said in regard to the cancellation announcement.",
+      "url": "https://nypost.com/2021/09/10/nicki-minaj-cancels-2021-mtv-vmas-performance/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/nicki-minaj-vma-02.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-09-10T17:31:00Z",
+      "content": "Nicki Minaj won’t be singing at the 2021 MTV Video Music Awards come Sunday.\r\nWhen an excited fan asked the “Seeing Green” rapper if she was performing at this year’s show at Brooklyn’s Barclays Cent… [+2369 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Lena H. Sun, Joel Achenbach",
+      "title": "Unvaccinated people were 11 times more likely to die of covid-19, CDC report finds - The Washington Post",
+      "description": "Moderna vaccine is most effective, says another study, the largest to date in U.S. to assess real-world effectiveness",
+      "url": "https://www.washingtonpost.com/health/2021/09/10/moderna-most-effective-covid-vaccine-studies/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNG7KYAR2UI6ZOWKQ2YUJ7EKFU.jpg&w=1440",
+      "publishedAt": "2021-09-10T17:03:53Z",
+      "content": "A second study showed the Moderna coronavirus vaccine was moderately more effective inpreventing hospitalizations than its counterparts from Pfizer-BioNTech and Johnson &amp; Johnson. That assessment… [+8282 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Kari Paul",
+      "title": "Judge in Fortnite case orders Apple to loosen restrictions on in-app payments - The Guardian",
+      "description": "Tech giant ordered to let developers steer buyers elsewhere, as judge finds Apple engaged in ‘anticompetitive conduct’ over app store purchases",
+      "url": "https://amp.theguardian.com/technology/2021/sep/10/apple-judge-court-fortnite-creator-epic-games",
+      "urlToImage": null,
+      "publishedAt": "2021-09-10T16:54:00Z",
+      "content": "Apple<ul><li>Tech giant ordered to let developers steer buyers elsewhere</li><li>Judge finds Apple engaged in anticompetitive conduct</li></ul>\r\nFri 10 Sep 2021 13.22 EDT\r\nA US judge on Friday ruled … [+3846 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "The Associated Press, Tom Winter",
+      "title": "Igor Fruman, former Giuliani associate, pleads guilty to campaign finance charges - NBC News",
+      "description": "A Florida businessman who made headlines for helping Rudy Giuliani seek damaging information on Joe Biden in Ukraine pleaded guilty Friday to a charge alleging he helped facilitate illegal foreign campaign contributions in an effort to build a marijuana busin…",
+      "url": "https://www.nbcnews.com/politics/2020-election/igor-fruman-former-giuliani-associate-pleads-guilty-campaign-finance-charges-n1278929",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_36/3504919/210910-igor-fruman-se-1146a.jpg",
+      "publishedAt": "2021-09-10T16:48:00Z",
+      "content": "A Florida businessman who made headlines for helping Rudy Giuliani seek damaging information on Joe Biden in Ukraine pleaded guilty Friday to a charge alleging he helped facilitate illegal foreign ca… [+3536 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Andrew Das",
+      "title": "U.S. Soccer Proposes Collective Talks on Equal Pay - The New York Times",
+      "description": "Seeking a new way out of a costly legal battle, U.S. Soccer’s president asks the men’s and women’s teams to negotiate together on the biggest obstacle: World Cup bonuses.",
+      "url": "https://www.nytimes.com/2021/09/10/sports/soccer/us-soccer-equal-pay.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/10/sports/10ussoccer1/10ussoccer1-facebookJumbo.jpg",
+      "publishedAt": "2021-09-10T16:43:58Z",
+      "content": "Until FIFA solves that discrepancy, we really need the help of the mens and the womens teams to come together to help us resolve that. Because we cant unilaterally resolve that.\r\nThe U.S. womens team… [+1562 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lifehacker.com" },
+      "author": "Khamosh Pathak",
+      "title": "How to Use 'Live Text,' the Best New Feature in iOS 15 - Lifehacker",
+      "description": "Live Text will let you scan and copy text from photos and your iPhone camera, even if it's handwritten.",
+      "url": "https://lifehacker.com/how-to-use-live-text-the-best-new-feature-in-ios-15-1847649795",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a68609802f89d7aae0df8aef2f3d7e02.jpg",
+      "publishedAt": "2021-09-10T16:30:00Z",
+      "content": "Theres a lot going on in iOS 15 and iPadOS 15, from small features like Background Sounds to banner features like FaceTime SharePlay. But the one feature thats going to have a huge impact on your day… [+1898 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "Cam Newton 'felt bamboozled' over Patriots, coronavirus issue - Fox News",
+      "description": "Cam Newton and the New England Patriots were in the midst of some controversy last month when the veteran quarterback was forced to miss five days after a “misunderstanding” with the league’s COVID testing protocols.",
+      "url": "https://www.foxnews.com/sports/cam-newton-bamboozled-patriots-coronavirus-issue",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Cam-Newton6.jpg",
+      "publishedAt": "2021-09-10T16:21:11Z",
+      "content": "Cam Newton and the New England Patriots were in the midst of some controversy last month when the veteran quarterback was forced to miss five days after a \"misunderstanding\" with the leagues COVID te… [+2073 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": null,
+      "title": "DoorDash, Grubhub And Uber Eats Sue New York City Over Price Caps - NPR",
+      "description": "New York limited how much the food delivery companies could charge restaurants that use their services, to help businesses during the pandemic. The city has extended that cap, which is set at 15%.",
+      "url": "https://www.npr.org/2021/09/10/1035905604/doordash-grubhub-uber-eats-lawsuit-sue-new-york-city",
+      "urlToImage": "https://media.npr.org/assets/img/2021/09/10/ap21253431196929_wide-39e288b26d60338ca667f182337be0fd4d1acba9.jpg?s=1400",
+      "publishedAt": "2021-09-10T16:19:18Z",
+      "content": "A delivery man bikes with a food bag from Grubhub in New York in April. The three biggest food delivery companies, DoorDash, Grubhub and Uber Eats, are suing the city of New York over its law to perm… [+4679 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Michael David Smith",
+      "title": "Ryan Succop never doubted Tom Brady would get him into field goal range - NBC Sports",
+      "description": "Buccaneers kicker Ryan Succop kicked Thursday night’s game-winning field goal, but he said afterward that he played only a “small part” in the win. The biggest part, Succop said, was played by quarterback Tom Brady, who guided the Buccaneers into field goal r…",
+      "url": "https://profootballtalk.nbcsports.com/2021/09/10/ryan-succop-never-doubted-tom-brady-would-get-him-into-field-goal-range/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/09/GettyImages-1235152721-e1631289293946.jpg",
+      "publishedAt": "2021-09-10T15:56:00Z",
+      "content": "Buccaneers kicker Ryan Succop kicked Thursday night’s game-winning field goal, but he said afterward that he played only a “small part” in the win.\r\nThe biggest part, Succop said, was played by quart… [+858 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jessica Dickler",
+      "title": "The lessons for investors from the trial of Theranos founder Elizabeth Holmes - CNBC",
+      "description": "Theranos wasn’t the only potential bad actor out there. Here’s how you can protect yourself and your portfolio from corporate fraud.",
+      "url": "https://www.cnbc.com/2021/09/10/the-lessons-for-investors-from-the-trial-of-theranos-founder-elizabeth-holmes.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103835087-RTSKKUW.jpg?v=1529452110",
+      "publishedAt": "2021-09-10T15:44:16Z",
+      "content": "Sometimes an investment is too good to be true.\r\nAs Elizabeth Holmes, founder and former CEO of Theranos, goes on trial on allegations of defrauding investors and patients, her health-care start-up m… [+5151 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Aria Bendix",
+      "title": "Mu coronavirus variant shares traits with Delta, but threat is waning - Business Insider",
+      "description": "Scientists are closely watching the variant because of its potential to evade antibodies from vaccines or a prior infection.",
+      "url": "https://www.businessinsider.com/mu-variant-covid-how-dangerous-compared-to-delta-2021-9",
+      "urlToImage": "https://i.insider.com/5fc7d24d50e71a0011558714?width=1200&format=jpeg",
+      "publishedAt": "2021-09-10T15:19:44Z",
+      "content": "Last month, seven fully vaccinated, elderly residents of a nursing home in Belgium died of COVID-19. They had all been infected with a coronavirus variant now known as Mu.\r\nThe outbreak raised questi… [+4768 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Shreyas Talpade celebrates Ganesh Puja at his home after 7 years; Ask him about the gap, he says, ‘that's - Times of India",
+      "description": "As India flags off the festive season with Ganesh Chaturthi, with much pomp and splendor, Bollywood celebrities are",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shreyas-talpade-celebrates-ganesh-puja-at-his-home-after-7-years-ask-him-about-the-gap-he-says-thats-another-storynot-for-today/articleshow/86097539.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-86097539,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-91018/86097539.jpg",
+      "publishedAt": "2021-09-10T14:57:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Cortney O'Brien",
+      "title": "Pro-lifers push back as left-wing pundits question science on fetal heartbeats after Texas abortion ruling - Fox News",
+      "description": "Pro-life advocates are pushing back on media members who are questioning the science of when a fetal heartbeat can be detected following the implementation of the Texas Heartbeat Act, which bans abortions after six weeks.",
+      "url": "https://www.foxnews.com/media/media-question-science-fetal-heartbeat-texas-abortion-law",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Fetus-Ultrasound-iStock.jpg",
+      "publishedAt": "2021-09-10T14:38:07Z",
+      "content": "Pro-life advocates are pushing back on media members who are questioning the science of when a fetal heartbeat can be detected following the implementation of the Texas Heartbeat Act, which bans abor… [+3525 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Anthony D'Alessandro",
+      "title": "Jim Gianopulos Leaving Paramount As Chairman & CEO, Brian Robbins Expected To Take Over - Deadline",
+      "description": "Jim Gianopulos is leaving Paramount as Chairman and CEO, Deadline has confirmed. A report in the Wall Street Journal said Brian Robbins, the head of ViacomCBS Inc.’s Nickelodeon kids TV empire, will take over Gianopulos’ position as the head of Paramount Pict…",
+      "url": "https://deadline.com/2021/09/jim-gianopulos-leaving-paramount-as-chairman-ceo-brian-robbins-expected-to-take-over-1234830466/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2019/02/jim-gianopulos-paramount.jpg?w=300",
+      "publishedAt": "2021-09-10T14:18:00Z",
+      "content": "Jim Gianopulos is leaving Paramount as Chairman and CEO, Deadline has confirmed. A report in the Wall Street Journal said Brian Robbins, the head of ViacomCBS Inc.’s Nickelodeon kids TV empire, will … [+6020 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KSAT San Antonio" },
+      "author": null,
+      "title": "Jennifer Lopez and Ben Affleck renting condo in Austin, report says - KSAT San Antonio",
+      "description": "Celebrity sightings aren’t uncommon in Texas and now two A-listers are expected to be seen around town a bit more in the coming months.",
+      "url": "https://www.ksat.com/news/local/2021/09/10/jennifer-lopez-and-ben-affleck-renting-condo-in-austin-report-says/",
+      "urlToImage": "https://www.ksat.com/resizer/m9BrrG16pPdsXe0tJLKKMSLe1O0=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/3TOMFPMWQZD5XFEU5DB4DEH5X4.jpg",
+      "publishedAt": "2021-09-10T13:51:07Z",
+      "content": "AUSTIN, Texas Celebrity sightings arent uncommon in Texas and now two A-listers are expected to be seen around town a bit more in the coming months.\r\nBen Affleck and Jennifer Lopez are reportedly rel… [+850 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Jonathan Garber",
+      "title": "Stocks snap 4-day losing streak, oil nears $70 - Fox Business",
+      "description": "U.S. stocks bounced around as investors evaluated another hot read on inflation.",
+      "url": "https://www.foxbusiness.com/markets/stocks-losing-streak-oil-nears-70",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/8815b045-ap16301578658834.jpg?ve=1&tl=1",
+      "publishedAt": "2021-09-10T13:50:55Z",
+      "content": "U.S. stock indexes surrendered morning gains sending all three averages lower and diminishing chances that the Dow Jones Industrial Average and the S&amp;P 500 index would snap four-day losing streak… [+2801 chars]"
+    }
+  ]
+}
